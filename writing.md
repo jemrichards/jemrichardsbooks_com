@@ -1,12 +1,10 @@
 ---
 layout: category_index
-title: Site map
+title: Writing
 permalink: /writing/
 category_name: writing
 
 ---
-
-![2019-11-05-223760.xml](https://jemrichards.github.io/jemrichardsbooks_com/assets/2019-11-05-223760.xml)
 
 Set the front matter:
 title = your page title and link name in the navigation

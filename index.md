@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Athena Jekyll Theme
+title: Jem Richards Books Home Page
 
 ---
 A simple and elegant theme for Jekyll and GitHub Pages.

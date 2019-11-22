@@ -1,6 +1,6 @@
 ---
 layout: category_index
-title: Writing
+title: Index
 permalink: /writing/
 category_name: writing
 

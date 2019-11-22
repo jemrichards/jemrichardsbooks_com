@@ -3,8 +3,10 @@ layout: category_index
 title: Writing
 permalink: /writing/
 category_name: writing
+
 ---
 
+![2019-11-05-814780.html](https://jemrichards.github.io/jemrichardsbooks_com/assets/2019-11-05-814780.html)
 <!--
 
 Set the front matter:
